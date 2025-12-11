@@ -1,87 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emily McGovern Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Emily McGovern
+A motivated software engineering student proficient in Python, HTML, and CSS, with experience in JavaScript and C#. Passionate about creating efficient, user-friendly applications. Strong problem-solving, teamwork, and adaptability skills with experience in leadership and customer service.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="ContactInfo">
+<a href="mcg21013@byui.edu">mcg21013@byui.edu</a>
+| <a href="https://www.linkedin.com/in/emily-irene-mcgovern/">My LinkedIn Page</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2022 - Present`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Software Engineering
+- Awarded Academic Scholarship for maintaining a 3.9 GPA
+- Member of the BYU-I Society of Women Engineers (SWE)
 
-- Sizar
+`Sept 2019 - June 2021`
+__South Puget Sound Community College__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- High Honors
+- GPA: 3.9
 
 
 
-## Publications
+## Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Mar 2025 - Aug 2025`
+__Walt Disney World - College Internship: Attractions__
 
-### Journals
+- Operated ride systems and ensured guest safety through strict operational procedures
+- Delivered exceptional guest service in a fast-paced, high-volume environment
+- Collaborated with team members to maintain ride efficiency and guest satisfaction
+- Responded calmly and professionally to guest concerns, emergencies, and situations
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Aug 2022 - Dec 2024` `Sept 2025 - Dec 2025`
+__Child and Youth Program Assistant__
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Designed and led engaging lessons for up to 8 infants ranging from 4 months to 18 months old, adapting to diverse learning styles
+- Managed and resolved conflicts among children, fostering a positive learning environment
+- Provided emotional support to families, assisting children during parental deployment
+- Collaborated with a team of 2 to ensure a safe and nurturing environment for children
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+## Skills/Characteristic
+- Technical Skills: Python, HTML, CSS, JavaScript, C#, C, Git, VS Code, GitHub, Microsoft Excel
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Soft Skills: Problem-solving, Teamwork, Team Leadership, Adaptability, Reliability, Time Management, Communication
 
+## Projects
+
+`July 2024`
+__SRS Document: Show Starter__
+
+- Utilized leadership skills by being reliable and compassionate to 24 team members
+- Led a Technical Specialist team of 4 to define 25+ software requirements in Microsoft Word and Google Docs
+- Facilitated conflict resolution and managing time constraints among a 24-member team
+
+
+`July 2024`
+__Travel Website to Colmar and Paris France__
+- Developed an interactive travel website featuring 3 hotels, 3 restaurants, and 3 activities for visitors to France
+- Implemented HTML, JavaScript, and CSS to enhance user experience and design.
 
 
 <!-- ### Footer
